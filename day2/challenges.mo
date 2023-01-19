@@ -1,7 +1,7 @@
 // CHALLENGE ONE
 
 actor {
-  public func average_array(array : [Int]) -> async Int {
+  public func average_array(array : [Int]) : async Int {
     var sum = 0;
     for i in array {
       sum += i;
@@ -9,6 +9,7 @@ actor {
     return sum / array.size;
   }
 };
+
 
 
 

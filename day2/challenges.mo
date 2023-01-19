@@ -2,13 +2,11 @@
 
 actor {
   public func average_array(array : [Int]) -> async Int {
-    var sum : Int = 0;
-    for i in array {
-      sum += i;
-    }
+    let sum = array.reduce(0, (acc, cur) => acc + cur);
     return sum / array.size;
   }
 };
+
 
 
 // CHALLENGE TWO

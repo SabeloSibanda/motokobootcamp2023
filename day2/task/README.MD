@@ -1,1 +1,3 @@
 I found the following repository from which I will be basing the build for the main project: https://github.com/dfinity/examples/tree/master/motoko/basic_dao
+
+I will be using this bootcamp as an accelerator to build a decentralised storage solution for financial services providers. It will be goverened by the DAO in lui of multi-sig functionality for governance purposes. Please do advise if this is overly ambitious - I do have clients already interested in a solution of this nature.

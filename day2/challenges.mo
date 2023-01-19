@@ -10,10 +10,6 @@ actor {
   }
 };
 
-
-
-
-
 // CHALLENGE TWO
 
 actor {

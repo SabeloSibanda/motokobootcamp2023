@@ -2,10 +2,14 @@
 
 actor {
   public func average_array(array : [Int]) -> async Int {
-    let sum = array.reduce(0, (acc, cur) => acc + cur);
+    var sum = 0;
+    for i in array {
+      sum += i;
+    }
     return sum / array.size;
   }
 };
+
 
 
 

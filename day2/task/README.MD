@@ -1,1 +1,1 @@
-# Put the files corresponding to your task in this folder
+I found the following repository from which I will be basing the build for the main project: https://github.com/dfinity/examples/tree/master/motoko/basic_dao

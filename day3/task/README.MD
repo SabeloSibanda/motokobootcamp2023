@@ -1,1 +1,1 @@
-# Put the files corresponding to your task in this folder
+I have run the code at https://github.com/dfinity/examples/tree/master/motoko/basic_dao and am building the storage solution.
